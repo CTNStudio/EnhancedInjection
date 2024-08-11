@@ -1,0 +1,24 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "fire_resistance_injection"
+        },
+        "priority": 0,
+        "tags": [
+            "crafting_table"
+        ],
+        "ingredients": [
+            {
+                "item": "minecraft:magma_cream",
+                "count": 4
+            },
+            {
+                "item": "ai:water_injection"
+            }
+        ],
+        "result": {
+            "item": "ai:fire_resistance_injection"
+        }
+    }
+}

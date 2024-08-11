@@ -1,0 +1,25 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "pack.description",
+    "name": "pack.name",
+    "uuid": "07281f81-9e76-454c-8133-812512937148",
+    "version": "0.3.0-beta.1",
+    "min_engine_version": [1, 21, 0],
+    "pack_scope": "world"
+  },
+  "modules": [
+    {
+      "description": "§8By NewBee",
+      "type": "resources",
+      "uuid": "2023b3c8-818c-67fa-5fdf-e908c147eb30",
+      "version": "0.3.0-beta.1"
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "789960c0-bfca-43ee-bc59-8db7ecb5a789",
+      "version": "0.3.0-beta.1"
+    }
+  ]
+}

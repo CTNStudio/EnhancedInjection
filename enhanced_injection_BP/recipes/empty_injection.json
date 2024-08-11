@@ -1,0 +1,23 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "empty_injection"
+        },
+        "priority": 0,
+        "tags": [
+            "crafting_table"
+        ],
+        "ingredients": [
+            {
+                "item": "ai:needle"
+            },
+            {
+                "item": "ai:syringe"
+            }
+        ],
+        "result": {
+            "item": "ai:empty_injection"
+        }
+    }
+}

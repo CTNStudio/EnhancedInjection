@@ -1,0 +1,11 @@
+item.ai:enhanced_injection=强化针剂
+item.ai:strength_injection=力量针剂
+item.ai:fire_resistance_injection=抗火针剂
+item.ai:desperate_injection=绝境针剂
+item.ai:empty_injection=空药剂
+item.ai:water_injection=清水药剂
+item.ai:needle=针头
+item.ai:syringe=针管
+ai.message.betawarn=§c[强化针剂v0.3.0-beta.1]您正在使用强化针剂的测试版本，可能存在诸多漏洞，请为您的世界做好备份或立即升/降级至正式版
+pack.name=强化针剂·资源包
+pack.description=强化针剂！ | 测试版0.3.0-beta.1 | 原作者：NewBee 脚本：StoneNugget

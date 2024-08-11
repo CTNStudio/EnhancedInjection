@@ -1,0 +1,29 @@
+{
+    "resource_pack_name": "addictive_injection",
+    "texture_data": {
+        "ai.enhanced_injection": {
+            "textures": "textures/items/enhanced_injection"
+        },
+        "ai.fire_resistance_injection": {
+            "textures": "textures/items/fire_resistance_injection"
+        },
+        "ai.empty_injection": {
+            "textures": "textures/items/empty_injection"
+        },
+        "ai.water_injection": {
+            "textures": "textures/items/water_injection"
+        },
+        "ai.syringe": {
+            "textures": "textures/items/syringe"
+        },
+        "ai.needle": {
+            "textures": "textures/items/needle"
+        },
+        "ai.desperate_injection": {
+            "textures": "textures/items/desperate_injection"
+        },
+        "ai.strength_injection": {
+            "textures": "textures/items/strength_injection"
+        }
+    }
+}

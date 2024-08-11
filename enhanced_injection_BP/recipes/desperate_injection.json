@@ -1,0 +1,28 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "desperate_injection"
+        },
+        "priority": 0,
+        "tags": [
+            "crafting_table"
+        ],
+        "ingredients": [
+            {
+                "item": "minecraft:wither_rose",
+                "count": 2
+            },
+            {
+                "item": "minecraft:iron_ingot",
+                "count": 2
+            },
+            {
+                "item": "ai:water_injection"
+            }
+        ],
+        "result": {
+            "item": "ai:desperate_injection"
+        }
+    }
+}
